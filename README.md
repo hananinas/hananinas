@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hananinas or Hanan
 - 👀 I’m interested in Fashion and Tech
-- 🌱 I’m currently learning about Ai
-- 💞️ I’m looking to collaborate on anything 
+- 🌱 I’m currently learning about Ai 
 - 📫 How to reach me hanan.nas@gmail.com or hanan@uai.dk
 
 <!---
